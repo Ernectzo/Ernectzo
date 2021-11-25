@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ernectzo/yoshi#6726
-- 👀 I’m interested in luaU, python and html.
-- 🌱 I’m currently learning luaU (and a bit of python)
-- 💞️ I’m looking to collaborate on Roblox
-- 📫 How to reach me? dm me on discord @yoshi#6726
+- 👀 LuaU: Experienced  Python: Novice  HTML: Learning
+- 🌱 I’m currently actively learning python and some HTML (pretty much finished with LuaU)
+- 📫 Dm me on discord @yoshi#6726 to reach me 
 
 <!---
 Sup 
